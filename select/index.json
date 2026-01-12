@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "蒲公英",
+  "base_artist": "幾田りら",
+  "createdAt": "2026-01-12T13:34:25.359565Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "蒲公英",
+      "artist": "Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/01_蒲公英_Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "蒲公英",
+      "artist": "Landy Wen",
+      "has_synced": true,
+      "path": "select/02_蒲公英_Landy_Wen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "蒲公英",
+      "artist": "Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/03_蒲公英_Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "蒲公英-たんぽぽ-",
+      "artist": "19",
+      "has_synced": false,
+      "path": "select/04_蒲公英-たんぽぽ-_19.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "蒲公英",
+      "artist": "Lo, Ta-yu",
+      "has_synced": false,
+      "path": "select/05_蒲公英_Lo,_Ta-yu.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "蒲公英",
+      "artist": "罗大佑",
+      "has_synced": false,
+      "path": "select/06_蒲公英_罗大佑.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "蒲公英 (feat. KMind)",
+      "artist": "Byejack",
+      "has_synced": true,
+      "path": "select/07_蒲公英_(feat._KMind)_Byejack.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "蒲公英",
+      "artist": "Ikuta, Lilas",
+      "has_synced": true,
+      "path": "select/08_蒲公英_Ikuta,_Lilas.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "蒲公英",
+      "artist": "羅大佑",
+      "has_synced": true,
+      "path": "select/09_蒲公英_羅大佑.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "蒲公英",
+      "artist": "刘若英",
+      "has_synced": true,
+      "path": "select/10_蒲公英_刘若英.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "蒲公英",
+      "artist": "羅大佑",
+      "has_synced": false,
+      "path": "select/11_蒲公英_羅大佑.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "蒲公英",
+      "artist": "温岚",
+      "has_synced": true,
+      "path": "select/12_蒲公英_温岚.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "蒲公英",
+      "artist": "范玮琪",
+      "has_synced": true,
+      "path": "select/13_蒲公英_范玮琪.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "蒲公英",
+      "artist": "刘若英",
+      "has_synced": false,
+      "path": "select/14_蒲公英_刘若英.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "蒲公英(Live)",
+      "artist": "刘若英",
+      "has_synced": false,
+      "path": "select/15_蒲公英(Live)_刘若英.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "蒲公英",
+      "artist": "幾田りら",
+      "has_synced": false,
+      "path": "select/pl_01_蒲公英_幾田りら.txt"
+    }
+  ]
+}
